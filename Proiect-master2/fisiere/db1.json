@@ -1,0 +1,18 @@
+{
+  "contact": [
+    {
+      "nume": "555",
+      "prenume": "",
+      "email": "",
+      "text": "",
+      "id": 1
+    },
+    {
+      "nume": "gg",
+      "prenume": "s",
+      "email": "s",
+      "text": "ss",
+      "id": 2
+    }
+  ]
+}
